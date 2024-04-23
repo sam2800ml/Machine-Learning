@@ -20,6 +20,6 @@ Metodos:
    - Utiliza datos de entrenamiento etiquetados y una coleccion de muestras de entrenamiento para estimar una funcion, aprende comparando lo que seria las etiquetas con los resultados reales
    - Usa patrones para poder predecir los valores reales
    - ![image](https://github.com/sam2800ml/Machine-Learning/assets/153122874/865d2bac-06a6-465a-968b-d818d9f3176b)
-
+   - La imagen anterior es una muestra de aprendizaje supervisado, ya que tenemos nuestras caracteristicas etiquetadas, lo que se le pasan a el modelo de inteligencia artificial del cual aprende gracias a estas, y por ultimo se realiza una prediccion con los datos de testeo para ver como ha sido el funcionamiento del modelo comparandolo con las etiquetas de testeo
  - Aprendizaje no Supervisado
    
